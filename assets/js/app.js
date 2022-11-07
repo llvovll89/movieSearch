@@ -1,5 +1,3 @@
-//  api 키 - http://www.omdbapi.com/?i=tt3896198&apikey=62aef3d1
-
 let key = "62aef3d1";
 const movieNameInput = document.querySelector("#movie-name");
 const searchBtn = document.querySelector(".btn");
